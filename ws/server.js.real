@@ -1,0 +1,47 @@
+const WebSocket = require('ws');
+const http = require('http');
+const fs = require('fs');
+
+const server = http.createServer((req, res) => {
+  if (req.url === '/client.js') {
+    fs.readFile('client.js', (err, data) => {
+      if (err) {
+        res.writeHead(500);
+        res.end('Error loading client.js');
+        return;
+      }
+      res.writeHead(200, { 'Content-Type': 'text/javascript' });
+      res.write(data);
+      res.end();
+    });
+  } else {
+    fs.readFile('index.html', (err, data) => {
+      if (err) {
+        res.writeHead(500);
+        res.end('Error loading index.html');
+        return;
+      }
+      res.writeHead(200, { 'Content-Type': 'text/html' });
+      res.write(data);
+      res.end();
+    });
+  }
+});
+
+const wss = new WebSocket.Server({ server });
+
+wss.on('connection', (ws) => {
+  ws.on('message', (message) => {
+    // Broadcast received message to all connected clients
+    wss.clients.forEach((client) => {
+      if (client !== ws && client.readyState === WebSocket.OPEN) {
+        client.send(message);
+      }
+    });
+  });
+});
+
+const PORT = process.env.PORT || 8080; // Use environment variable for port or default to 8080
+server.listen(PORT, () => {
+  console.log(`Server is running on http://localhost:${PORT}`);
+});

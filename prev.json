@@ -1,0 +1,137 @@
+[
+  {
+    "DATA_PREVISIONE": "2024-02-16 13:30:00",
+    "DATA_ESTREMALE": "2024-02-16 15:30:00",
+    "TIPO_ESTREMALE": "max",
+    "VALORE": "35",
+    "TITOLO": "Marea percepita per l'estremale del 16/02 alle 15:30",
+    "VIGNETTA": "080.gif",
+    "DEFAULT_VIGNETTA": "0"
+  },
+  {
+    "DATA_PREVISIONE": "2024-02-16 13:30:00",
+    "DATA_ESTREMALE": "2024-02-16 19:35:00",
+    "TIPO_ESTREMALE": "min",
+    "VALORE": "25",
+    "TITOLO": "Marea percepita per l'estremale del 16/02 alle 19:35",
+    "VIGNETTA": "080.gif",
+    "DEFAULT_VIGNETTA": "0"
+  },
+  {
+    "DATA_PREVISIONE": "2024-02-16 13:30:00",
+    "DATA_ESTREMALE": "2024-02-17 03:10:00",
+    "TIPO_ESTREMALE": "max",
+    "VALORE": "65",
+    "TITOLO": "Marea percepita per l'estremale del 17/02 alle 03:10",
+    "VIGNETTA": "080.gif",
+    "DEFAULT_VIGNETTA": "1"
+  },
+  {
+    "DATA_PREVISIONE": "2024-02-16 13:30:00",
+    "DATA_ESTREMALE": "2024-02-17 11:55:00",
+    "TIPO_ESTREMALE": "min",
+    "VALORE": "10",
+    "TITOLO": "Marea percepita per l'estremale del 17/02 alle 11:55",
+    "VIGNETTA": "080.gif",
+    "DEFAULT_VIGNETTA": "0"
+  },
+  {
+    "DATA_PREVISIONE": "2024-02-16 13:30:00",
+    "DATA_ESTREMALE": "2024-02-18 03:40:00",
+    "TIPO_ESTREMALE": "max",
+    "VALORE": "50",
+    "TITOLO": "Marea percepita per l'estremale del 18/02 alle 03:40",
+    "VIGNETTA": "080.gif",
+    "DEFAULT_VIGNETTA": "0"
+  },
+  {
+    "DATA_PREVISIONE": "2024-02-16 13:30:00",
+    "DATA_ESTREMALE": "2024-02-18 13:45:00",
+    "TIPO_ESTREMALE": "min",
+    "VALORE": "-5",
+    "TITOLO": "Marea percepita per l'estremale del 18/02 alle 13:45",
+    "VIGNETTA": "080.gif",
+    "DEFAULT_VIGNETTA": "0"
+  },
+  {
+    "DATA_PREVISIONE": "2024-02-16 13:30:00",
+    "DATA_ESTREMALE": "2024-02-18 22:40:00",
+    "TIPO_ESTREMALE": "max",
+    "VALORE": "45",
+    "TITOLO": "Marea percepita per l'estremale del 18/02 alle 22:40",
+    "VIGNETTA": "080.gif",
+    "DEFAULT_VIGNETTA": "0"
+  },
+  {
+    "DATA_PREVISIONE": "2024-02-16 13:30:00",
+    "DATA_ESTREMALE": "2024-02-19 01:45:00",
+    "TIPO_ESTREMALE": "min",
+    "VALORE": "40",
+    "TITOLO": "Marea percepita per l'estremale del 19/02 alle 01:45",
+    "VIGNETTA": "080.gif",
+    "DEFAULT_VIGNETTA": "0"
+  },
+  {
+    "DATA_PREVISIONE": "2024-02-16 13:30:00",
+    "DATA_ESTREMALE": "2024-02-19 06:45:00",
+    "TIPO_ESTREMALE": "max",
+    "VALORE": "45",
+    "TITOLO": "Marea percepita per l'estremale del 19/02 alle 06:45",
+    "VIGNETTA": "080.gif",
+    "DEFAULT_VIGNETTA": "0"
+  },
+  {
+    "DATA_PREVISIONE": "2024-02-16 13:30:00",
+    "DATA_ESTREMALE": "2024-02-19 14:35:00",
+    "TIPO_ESTREMALE": "min",
+    "VALORE": "-10",
+    "TITOLO": "Marea percepita per l'estremale del 19/02 alle 14:35",
+    "VIGNETTA": "080.gif",
+    "DEFAULT_VIGNETTA": "0"
+  },
+  {
+    "DATA_PREVISIONE": "2024-02-16 13:30:00",
+    "DATA_ESTREMALE": "2024-02-19 22:05:00",
+    "TIPO_ESTREMALE": "max",
+    "VALORE": "50",
+    "TITOLO": "Marea percepita per l'estremale del 19/02 alle 22:05",
+    "VIGNETTA": "080.gif",
+    "DEFAULT_VIGNETTA": "0"
+  },
+  {
+    "DATA_PREVISIONE": "2024-02-16 13:30:00",
+    "DATA_ESTREMALE": "2024-02-20 03:00:00",
+    "TIPO_ESTREMALE": "min",
+    "VALORE": "30",
+    "TITOLO": "Marea percepita per l'estremale del 20/02 alle 03:00",
+    "VIGNETTA": "080.gif",
+    "DEFAULT_VIGNETTA": "0"
+  },
+  {
+    "DATA_PREVISIONE": "2024-02-16 13:30:00",
+    "DATA_ESTREMALE": "2024-02-20 08:00:00",
+    "TIPO_ESTREMALE": "max",
+    "VALORE": "45",
+    "TITOLO": "Marea percepita per l'estremale del 20/02 alle 08:00",
+    "VIGNETTA": "080.gif",
+    "DEFAULT_VIGNETTA": "0"
+  },
+  {
+    "DATA_PREVISIONE": "2024-02-16 13:30:00",
+    "DATA_ESTREMALE": "2024-02-20 15:15:00",
+    "TIPO_ESTREMALE": "min",
+    "VALORE": "-25",
+    "TITOLO": "Marea percepita per l'estremale del 20/02 alle 15:15",
+    "VIGNETTA": "080.gif",
+    "DEFAULT_VIGNETTA": "0"
+  },
+  {
+    "DATA_PREVISIONE": "2024-02-16 13:30:00",
+    "DATA_ESTREMALE": "2024-02-20 22:20:00",
+    "TIPO_ESTREMALE": "max",
+    "VALORE": "50",
+    "TITOLO": "Marea percepita per l'estremale del 20/02 alle 22:20",
+    "VIGNETTA": "080.gif",
+    "DEFAULT_VIGNETTA": "0"
+  }
+]
